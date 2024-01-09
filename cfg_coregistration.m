@@ -1,4 +1,4 @@
-%% BEAM LAB Unil 2024
+%% BEAM LAB Unil 2024 -
 
 % Paths used by the matlab script. User needs to enter the information
 % below once before running step1 to step4 
