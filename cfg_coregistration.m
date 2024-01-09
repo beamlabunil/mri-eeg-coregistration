@@ -12,5 +12,5 @@ root_path = 'C:\Users\kschippe\OneDrive\Documents\UNIL\Research\EEG\'; % where c
 
 % database path
 database_path_root = 'brainstorm_db'; % brainstorm database folder: should remain like this
-database_name = 'coregistration_process_final'; % our project folder name
+database_name = 'mri-eeg-coregistration'; % our project folder name
 database_path = [database_path_root filesep database_name];
