@@ -44,4 +44,4 @@ Prerequisites
 Kate Schipper : kate.schipper@unil.ch
 Paolo Ruggeri : paolo.ruggeri@unil.ch
 
-# ACKNOWLEDGMENTS
+## ACKNOWLEDGMENTS
