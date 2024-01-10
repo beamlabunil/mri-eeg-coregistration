@@ -23,7 +23,7 @@ Prerequisites
 
 ## Instructions
 1.	Create Brainstorm Protocol:
--	Set up a new folder and protocol in Brainstorm and name it “mri-EEG-coregistration” (if you want to follow our labelling system)
+-	Set up a new folder and protocol in Brainstorm and name it “mri-eeg-coregistration” (if you want to follow our labelling system)
 2.	MRI Import and Normalization:
 -	Import T1 MRI and compute MNI normalization and verify the marking of the NAS/LPA/RPA fiducials.
 3.	MRI segmentation and  BEM surface generation:
