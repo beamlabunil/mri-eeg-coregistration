@@ -10,7 +10,7 @@ Features
 ## SUPPORT 
 See tutorial video here xxx (to come)
 
-Refer to software documentation for additional details or updates here : Brainstorm tutotial website
+Refer to software documentation for additional details or updates here : https://neuroimage.usc.edu/brainstorm/Tutorials
 
 ## BUILT WITH
 -	Matlab
@@ -42,6 +42,7 @@ Prerequisites
 
 ## CONTACT
 Kate Schipper : kate.schipper@unil.ch
+
 Paolo Ruggeri : paolo.ruggeri@unil.ch
 
 ## ACKNOWLEDGMENTS
