@@ -1,27 +1,27 @@
 # mri-eeg-coregistration
 
-## SEMI-AUTOMATIC MRI-EEG COREGISTRATION PIPELINE
+# SEMI-AUTOMATIC MRI-EEG COREGISTRATION PIPELINE
 
-# DESCRIPTION 
+## DESCRIPTION 
 This README outlines a semi-automatic pipeline customized in MATLAB utilizing scripts from Brainstorm. The purpose of this pipeline is to automate the coregistration process for individual MRI scans and EEG electrode positioning. The pipeline involves a combination of manual steps facilitated by a graphical user interface (GUI) and automated processes through MATLAB scripts.
 Features 
 -	Manual steps : Instructions are provided for the manual tasks within Brainstorm (see tutorial video below)
 -	Automatic steps : MATLAB scripts from Brainstorm are employed to automate specific tasks such as MRI segmentation using Cat12, generation of Boundary Element Model (BEM) surfaces, importation of a "dummy" EEG signal and computation of a head model. 
 
-# SUPPORT 
+## SUPPORT 
 See tutorial video here xxx (to come)
 Refer to software documentation for additional details or updates here : Brainstorm tutotial website
 
-# BUILT WITH
+## BUILT WITH
 -	Matlab
 -	Brainstorm scripts
 
-# GETTING STARTED
+## GETTING STARTED
 Prerequisites 
 -	Matlab
 -	Brainstorm : cat12 and spm12 plugins must be loaded 
 
-# Instructions
+## Instructions
 1.	Create Brainstorm Protocol:
 -	Set up a new folder and protocol in Brainstorm and name it “mri-EEG-coregistration” (if you want to follow our labelling system)
 2.	MRI Import and Normalization:
@@ -40,7 +40,7 @@ Prerequisites
 -	Before running step4 script ensure correct BEM surface files are selected in the "anat" folder
 
 
-# CONTACT
+## CONTACT
 Kate Schipper : kate.schipper@unil.ch
 Paolo Ruggeri : paolo.ruggeri@unil.ch
 
