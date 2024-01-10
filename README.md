@@ -2,6 +2,7 @@
 
 ## DESCRIPTION 
 This README outlines a semi-automatic pipeline customized in MATLAB utilizing scripts from Brainstorm. The purpose of this pipeline is to automate the coregistration process for individual MRI scans and EEG electrode positioning. The pipeline involves a combination of manual steps facilitated by a graphical user interface (GUI) and automated processes through MATLAB scripts.
+
 Features 
 -	Manual steps : Instructions are provided for the manual tasks within Brainstorm (see tutorial video below)
 -	Automatic steps : MATLAB scripts from Brainstorm are employed to automate specific tasks such as MRI segmentation using Cat12, generation of Boundary Element Model (BEM) surfaces, importation of a "dummy" EEG signal and computation of a head model. 
