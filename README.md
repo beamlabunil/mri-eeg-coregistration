@@ -1,5 +1,3 @@
-# mri-eeg-coregistration
-
 # SEMI-AUTOMATIC MRI-EEG COREGISTRATION PIPELINE
 
 ## DESCRIPTION 
