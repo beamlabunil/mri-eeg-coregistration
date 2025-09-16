@@ -8,7 +8,7 @@ Features
 -	Automatic steps : MATLAB scripts from Brainstorm are employed to automate specific tasks such as MRI segmentation using Cat12, generation of Boundary Element Model (BEM) surfaces, importation of a "dummy" EEG signal and computation of a head model. 
 
 ## SUPPORT 
-See tutorial video here (https://www.youtube.com/watch?v=_IBLQewEHE4&ab_channel=beamlabunil)
+See tutorial video here https://www.youtube.com/watch?v=_IBLQewEHE4&ab_channel=beamlabunil
 
 Refer to software documentation for additional details or updates here : https://neuroimage.usc.edu/brainstorm/Tutorials
 
